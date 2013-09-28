@@ -1,21 +1,49 @@
 {
-  "type": "Feature",
-  "properties": {
-    "name": "UNI-1",
-    "show_on_map": true
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-104.9847, 39.7392]
-  }
-}, {
-  "type": "Feature",
-  "properties": {
-    "name": "UNI-2",
-    "show_on_map": true
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-122.3331, 47.6097]
-  }
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "UNI-1",
+				"show_on_map": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-104.9847, 39.7392]
+			}
+		}, 
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "UNI-2",
+				"show_on_map": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-122.3331, 47.6097]
+			}
+		}, 
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "UNI-3",
+				"show_on_map": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-122.3331, 47.6097]
+			}
+		}, 
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "UNI-4",
+				"show_on_map": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-122.3331, 47.6097]
+			}
+		}
+	]
 }
