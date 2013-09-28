@@ -1,49 +1,147 @@
 {
 	"type": "FeatureCollection",
 	"features": [
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "UNI-1",
-				"show_on_map": true
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [-104.9847, 39.7392]
-			}
-		}, 
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "UNI-2",
-				"show_on_map": true
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [-122.3331, 47.6097]
-			}
-		}, 
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "UNI-3",
-				"show_on_map": true
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [-104.9942, 39.7561]
-			}
-		}, 
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "UNI-4",
-				"show_on_map": true
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [-122.3317, 47.5953]
-			}
-		}
+{
+  "type": "Feature",
+  "properties": {
+    "Name": "UNI-1",
+    "Street": "121 Street",
+    "City": "Denver"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-104.9847, 39.7392]
+  }
+},
+
+{
+  "type": "Feature",
+  "properties": {
+    "Name": "UNI-2",
+    "Street": "122 Street",
+    "City": "Seattle"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.3331, 47.6097]
+  }
+},
+
+{
+  "type": "Feature",
+  "properties": {
+    "Name": "UNI-3",
+    "Street": "123 Street",
+    "City": "New York"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.94, 40.67]
+  }
+},
+
+{
+  "type": "Feature",
+  "properties": {
+    "Name": "UNI-5",
+    "Street": "124 Street",
+    "City": "San Fransisco"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.4167, 37.7833]
+  }
+},
+
+{
+  "type": "Feature",
+  "properties": {
+    "Name": "UNI-5",
+    "Street": "125 Street",
+    "City": "Los Angeles"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-118.25, 34.05]
+  }
+},
+
+{
+  "type": "Feature",
+  "properties": {
+    "Name": "UNI-6",
+    "Street": "126 Street",
+    "City": "Dallas"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-96.7967, 32.7758]
+  }
+},
+
+{
+  "type": "Feature",
+  "properties": {
+    "Name": "UNI-7",
+    "Street": "127 Street",
+    "City": "Miami"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-80.2241, 25.7877]
+  }
+},
+
+{
+  "type": "Feature",
+  "properties": {
+    "Name": "UNI-8",
+    "Street": "128 Street",
+    "City": "Memphis"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-89.9711, 35.1174]
+  }
+},
+
+{
+  "type": "Feature",
+  "properties": {
+    "Name": "UNI-9",
+    "Street": "129 Street",
+    "City": "Boston"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-71.0636, 42.3581]
+  }
+},
+
+{
+  "type": "Feature",
+  "properties": {
+    "Name": "UNI-10",
+    "Street": "130 Street",
+    "City": "Chicago"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-87.6278, 41.8819]
+  }
+},
+
+{
+  "type": "Feature",
+  "properties": {
+    "Name": "UNI-11",
+    "Street": "131 Street",
+    "City": "Boise"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-116.2377, 43.6137]
+  }
+}
 	]
 }
